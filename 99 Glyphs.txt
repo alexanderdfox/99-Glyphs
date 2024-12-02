@@ -1,0 +1,66 @@
+99 Glyphs (But a Bit Ain’t One)
+
+(Inspired by hip-hop rhythms with a nerdy twist)
+
+[Verse 1]
+I’m coding up a storm, got my IDE bright,
+Glyphs lining up like stars in the night.
+Variables in order, no bugs in sight,
+But that one little bit ain’t acting right.
+
+Got arrays in a flow, loops in control,
+Syntax clean, yeah, I’m on a roll.
+Regex flex, parsing all the text,
+But the bit won’t flip—what’s coming next?
+
+[Chorus]
+99 glyphs in my function’s throne,
+But a bit ain’t one, nah, leave it alone.
+Debugging all day till the code is honed,
+99 glyphs, but a bit ain’t one.
+
+[Verse 2]
+Stack overflowin’, but I keep my cool,
+Binary digits in my digital pool.
+Refactor and track, stepping through the stack,
+But the rogue little bit keeps pulling me back.
+
+0 or 1, it’s a two-bit world,
+Logic gates dance, algorithms swirl.
+But this odd glitch don’t obey the law,
+Even bitwise ops can’t fix the flaw.
+
+[Chorus]
+99 glyphs in my function’s throne,
+But a bit ain’t one, nah, leave it alone.
+Debugging all day till the code is honed,
+99 glyphs, but a bit ain’t one.
+
+[Bridge]
+If you’re dealing with a byte, I feel bad for you, son,
+I got 99 glyphs, but a bit ain’t one.
+Try a NAND, try an XOR, still the same fight,
+Tried flipping it back in the dead of night.
+
+Even checked the docs, even Googled deep,
+But that bit’s like a ghost that won’t let me sleep.
+Binary blues, stuck in the loop,
+Calling on the debugger to join the troop.
+
+[Breakdown]
+Code compiles, but the test won’t run,
+That little bit’s laughing, thinking it’s won.
+But I’m persistent, a hacker at heart,
+That bit’ll submit when I break it apart.
+
+[Chorus]
+99 glyphs in my function’s throne,
+But a bit ain’t one, nah, leave it alone.
+Debugging all day till the code is honed,
+99 glyphs, but a bit ain’t one.
+
+[Outro]
+So here’s the truth: coding ain’t all fame,
+Sometimes a single bit plays the game.
+But I’ll fix that glitch, oh, it’s gonna be done,
+’Cause I got 99 glyphs, but a bit ain’t one.
